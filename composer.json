@@ -1,0 +1,16 @@
+{
+  "name": "mwdelaney/add-sitemap-to-robots",
+  "description": "Add typical XML sitemap to robots.txt",
+  "keywords": ["wordpress", "plugin", "robots", "sitemap"],
+  "homepage": "https://github.com/mwdelaney/example-cpt",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael W. Delaney"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=5.3.2"
+  }
+}
